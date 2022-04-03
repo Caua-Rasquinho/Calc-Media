@@ -1,0 +1,15 @@
+C:\Users\cauar\OneDrive\Documentos\C#\Calc_Média\obj\Debug\net6.0\Calc_Média.csproj.AssemblyReference.cache
+C:\Users\cauar\OneDrive\Documentos\C#\Calc_Média\obj\Debug\net6.0\Calc_Média.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauar\OneDrive\Documentos\C#\Calc_Média\obj\Debug\net6.0\Calc_Média.AssemblyInfoInputs.cache
+C:\Users\cauar\OneDrive\Documentos\C#\Calc_Média\obj\Debug\net6.0\Calc_Média.AssemblyInfo.cs
+C:\Users\cauar\OneDrive\Documentos\C#\Calc_Média\obj\Debug\net6.0\Calc_Média.csproj.CoreCompileInputs.cache
+C:\Users\cauar\OneDrive\Documentos\C#\Calc_Média\bin\Debug\net6.0\Calc_Média.exe
+C:\Users\cauar\OneDrive\Documentos\C#\Calc_Média\bin\Debug\net6.0\Calc_Média.deps.json
+C:\Users\cauar\OneDrive\Documentos\C#\Calc_Média\bin\Debug\net6.0\Calc_Média.runtimeconfig.json
+C:\Users\cauar\OneDrive\Documentos\C#\Calc_Média\bin\Debug\net6.0\Calc_Média.dll
+C:\Users\cauar\OneDrive\Documentos\C#\Calc_Média\bin\Debug\net6.0\Calc_Média.pdb
+C:\Users\cauar\OneDrive\Documentos\C#\Calc_Média\obj\Debug\net6.0\Calc_Média.dll
+C:\Users\cauar\OneDrive\Documentos\C#\Calc_Média\obj\Debug\net6.0\refint\Calc_Média.dll
+C:\Users\cauar\OneDrive\Documentos\C#\Calc_Média\obj\Debug\net6.0\Calc_Média.pdb
+C:\Users\cauar\OneDrive\Documentos\C#\Calc_Média\obj\Debug\net6.0\Calc_Média.genruntimeconfig.cache
+C:\Users\cauar\OneDrive\Documentos\C#\Calc_Média\obj\Debug\net6.0\ref\Calc_Média.dll
